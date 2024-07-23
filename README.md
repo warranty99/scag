@@ -1,2 +1,2 @@
-# scag
-tv thing from a game
+# READ ME!
+Hi :3
